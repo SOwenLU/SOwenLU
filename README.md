@@ -1,4 +1,6 @@
-## Hi there 👋
+# Hi, I'm Sam👋
+
+I am a BHF PhD Student at Leeds University investigating platelets in Heart Failure. 
 
 <!--
 **SOwenLU/SOwenLU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
